@@ -8,7 +8,7 @@ The program takes data from 'miasta.xlsx' (miasta = cities) which are presented 
 * Time of travel from Kraków (Cracow) to coresponding city
 * Time of travel from Wrocław (Wroclaw) to coresponding city
 
-###Installing Basemap
+### Installing Basemap
 It isnt such simple thing. For inexperienced which I really am I recommend this tut --> [Instalation tut](https://www.youtube.com/watch?v=mwgnYW3RnhI)
 
 ### Programming
