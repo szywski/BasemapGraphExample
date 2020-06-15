@@ -16,5 +16,8 @@ To obtain basic knowledge how basemap works I recommend --> [this](https://www.y
 And a little bit of stackoverflow of course :)
 I also put comments in my code so it would be easier to understand what basemap is.
 
+### My map
+![IMG](sample.png)
+
 
 
