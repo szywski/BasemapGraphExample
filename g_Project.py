@@ -17,7 +17,7 @@ cel = input("miejsce docelowe podróży: ")       #destinatnio
 #setting the map
 m = Basemap(
         projection='merc',
-        llcrnrlon=13, #these are coordinates of Poland but don bomb it please
+        llcrnrlon=13, #these are coordinates of Poland 
         llcrnrlat=49,
         urcrnrlon=26,
         urcrnrlat=55,
@@ -26,7 +26,7 @@ m = Basemap(
         suppress_ticks=True)
 
 #plik z danymi
-#data file with data
+#file with data
 doc = ("miasta.xlsx")
 wb = xlrd.open_workbook(doc)
 sheet = wb.sheet_by_index(0)
